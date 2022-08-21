@@ -1,0 +1,3 @@
+[submodule "content/votekit"]
+	path = content/votekit
+	url = https://github.com/paretoman/votekit.git
